@@ -1,0 +1,11 @@
+JOBNAME: clas12-newdisk_10
+PROJECT: clas12
+MAIL: sergeyeva@ipno.in2p3.fr
+TRACK: simulation
+COMMAND: go_simulate /w/hallb-scifs17exp/clas12/users/sergeyeva/alert_with_without_shell /work/clas12/users/sergeyeva/alert_with_without_shell/target30cm/output_updatedJulienShellDec2020 /group/clas12/packages/coatjava/6.5.9 10 clas12-newdisk.gcard 15000 clas12-newdisk
+OS: general
+MEMORY: 1500 MB
+TIME: 600
+OTHER_FILES: /w/hallb-scifs17exp/clas12/users/sergeyeva/alert_with_without_shell/go_simulate
+OTHER_FILES: /w/hallb-scifs17exp/clas12/users/sergeyeva/alert_with_without_shell/./clas12-newdisk.gcard
+OTHER_FILES: /w/hallb-scifs17exp/clas12/users/sergeyeva/alert_with_without_shell/clas12-default.yaml
